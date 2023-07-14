@@ -1,0 +1,11 @@
+Model Information:
+* title:	Statue of Ramesses III
+* source:	https://sketchfab.com/3d-models/statue-of-ramesses-iii-dec51e9168814cd38982e9f0d165de80
+* author:	Abby Gancz (https://sketchfab.com/agancz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Statue of Ramesses III" (https://sketchfab.com/3d-models/statue-of-ramesses-iii-dec51e9168814cd38982e9f0d165de80) by Abby Gancz (https://sketchfab.com/agancz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
